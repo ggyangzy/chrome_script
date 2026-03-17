@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "Random Heart Move Effect"
+  },
+  "extDescription": {
+    "message": "Show floating heart effects at random positions when moving the mouse."
+  }
+}
